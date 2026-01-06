@@ -1,3 +1,7 @@
 amount,date,category,participants
-50.00,2026-01-05,Food,Alice;Bob
-1200.00,2026-01-01,Rent,Self
+12.50,2026-01-02,Food,Self
+45.00,2026-01-03,Transport,Self;Uber
+1200.00,2026-01-01,Rent,Landlord
+8.00,2026-01-04,Coffee,Self;Friend
+55.20,2026-01-05,Utilities,ElectricCo
+20.00,2026-01-05,Food,Grocery Store
