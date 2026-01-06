@@ -52,7 +52,7 @@ The use of **Abstract Base Classes (ABCs)** ensures the codebase is "Open-Closed
 1.  **Data Setup:** Create an `expenses.csv` file in the root directory with the headers: `amount,date,category,participants`.
 2.  **Execution:**
     ```bash
-    python main.py
+    python expenseTracker.py
     ```
 3.  **Output:** The system parses the data, updates the ledger, and generates an `expense_breakdown.png`.
 
